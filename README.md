@@ -1,5 +1,5 @@
 # Bank_card
-- [Demo Project](https://rozhanzahiri.github.io/slider/)
+- [Demo Project](https://rozhanzahiri.github.io/Bank_card/)
 
 - Developed by Rozhan Zahiri
 
